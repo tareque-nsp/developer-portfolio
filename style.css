@@ -1,6 +1,7 @@
 body{
-    margin: 0%;
+    margin: 0%;    
     font-family: 'Kanit', sans-serif;
+    
 }
 section{
     height: 400px;
@@ -68,4 +69,7 @@ h2{
 }
 footer p{
     text-align: center;
+    background-color: cornflowerblue;
+    padding: 10px;
+    margin-bottom: 0%;
 }
